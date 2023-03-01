@@ -1,0 +1,1 @@
+This is a basic HTML/CSS website created to teach basic HTML and CSS principles
